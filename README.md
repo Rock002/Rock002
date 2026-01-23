@@ -7,4 +7,7 @@
 ![icons](https://skillicons.dev/icons?i=java,spring,postgresql,docker,kafka,git,maven)
 
 ## 🔥 Статистика
-![GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=Rock002&theme=dark&background=000000)
+<div id="first-stat">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Rock002&theme=dark&background=000000"/>
+</div>
+
