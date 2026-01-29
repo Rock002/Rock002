@@ -4,6 +4,7 @@
 #### Стремлюсь стать профессионалом в создании приложений с использованием современных технологий.
 
 ## 🛠 Инструменты и технологии
+&nbsp;
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/ "Java")&nbsp;
 [![Spring Framework](https://skillicons.dev/icons?i=spring)](https://spring.io/ "Spring Framework")&nbsp;
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/ "PostgreSQL")&nbsp;
@@ -15,5 +16,5 @@
 ## 🔥 Статистика
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats-orpin-eight.vercel.app?user=Rock002&theme=dark&background=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rock002&layout=compact&theme=dark&bg_color=000000"/>
+  <img height="180em" src="https://readme-stats-ecru-mu.vercel.app/api/top-langs/?username=Rock002&layout=compact&theme=dark&bg_color=000000&hide=javascript,php,freemarker,procfile"/>
 </div>
