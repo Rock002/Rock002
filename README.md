@@ -7,6 +7,7 @@
 &nbsp;
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/ "Java")&nbsp;
 [![Spring Framework](https://skillicons.dev/icons?i=spring)](https://spring.io/ "Spring Framework")&nbsp;
+[![Hibernate](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/ "Hibernate")&nbsp;
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/ "PostgreSQL")&nbsp;
 [![Apache Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/ "Apache Maven")&nbsp;
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/ "Redis")&nbsp;
